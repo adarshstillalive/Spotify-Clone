@@ -1,0 +1,27 @@
+body{
+  padding:0;
+  margin:0;
+  background-color:black;
+  
+}
+@font-face{
+  font-family:CircularSpM;
+  src:url(CircularSp/CircularStd-Medium.otf);
+  
+}
+@font-face{
+  font-family:CircularSpBl;
+  src:url(CircularSp/CircularStd-Black.otf);
+}
+@font-face{
+  font-family:CircularSpB;
+  src:url(CircularSp/CircularStd-Bold.otf);
+}
+@font-face{
+  font-family:CircularSpBo;
+  src:url(CircularSp/CircularStd-Book.otf);
+}
+@font-face{
+  font-family:CircularSpL;
+  src:url(CircularSp/CircularStd-Light.otf);
+}
